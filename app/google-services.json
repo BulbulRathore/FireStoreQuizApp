@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "278753916083",
+    "firebase_url": "https://firestorequizapp-bafde.firebaseio.com",
+    "project_id": "firestorequizapp-bafde",
+    "storage_bucket": "firestorequizapp-bafde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278753916083:android:62c0ff1a5595fe6a1aacc6",
+        "android_client_info": {
+          "package_name": "com.example.firestorequizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278753916083-9vs2gnqvfdljcuujgm09lhd5k947strc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYexpqgIDgXU_WkceF0F-J2SSD6BMcVUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278753916083-9vs2gnqvfdljcuujgm09lhd5k947strc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
